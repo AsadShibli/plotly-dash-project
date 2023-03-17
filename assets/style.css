@@ -1,0 +1,31 @@
+img {
+    max-width: -webkit-fill-available;
+
+}
+#car_img{
+        padding-top:30px
+    }
+#header{
+text-align: center;
+    font-size: 68px;
+    font-variant-caps: all-petite-caps;
+    border-bottom: 10px ridge;
+    font-family: cursive;
+
+}
+div#input-box {
+    box-shadow: -4px 12px 20px 1px rgba(0, 0, 0, 0.2);
+            padding-top:30px
+}
+
+button#submit-btn {
+    width: inherit;
+    margin-top: 26px;
+}
+
+#top-5-table{
+    width:50%
+}
+H3{
+text-align:center
+}
